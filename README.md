@@ -1,4 +1,5 @@
-👋 Hi, I'm Pal Rawal
+# 👋 Hi, I'm Pal Rawal
+
 🚀 Software Developer | Full-Stack Learner | AI Enthusiast | Data Explorer
 
 📍 Ahmedabad, India
