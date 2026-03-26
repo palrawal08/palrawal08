@@ -94,9 +94,13 @@ I enjoy building smart, scalable, and user-friendly systems that solve real-worl
 ## 🏆 Certifications
 
 📜 Exploratory Data Analysis for ML – IBM (2025)
+
 📜 Data Structures in Java – Coursera (2024)
+
 📜 Introduction to Java – Coursera (2024)
+
 📜 HTML, CSS & JavaScript – IBM (2024)
+
 📜 Back-End Devlopment with .Net – Microsoft (2025)
 
 ---
