@@ -111,7 +111,7 @@ I enjoy building smart, scalable, and user-friendly systems that solve real-worl
 
 ## 🤝 Let's Connect
 
-🔗 LinkedIn: your-linkedin-link
+🔗 LinkedIn: https://www.linkedin.com/in/pal-rawal-816a02358/
 💼 GitHub: https://github.com/palrawal08
 📧 Email: [palrawal45@gmail.com](mailto:your-email@gmail.com)
 
