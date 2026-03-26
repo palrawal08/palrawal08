@@ -79,9 +79,13 @@ I enjoy building smart, scalable, and user-friendly systems that solve real-worl
 ## 🎯 Current Focus
 
 🚀 Building real-world scalable applications
+
 📈 Exploring AI-based solutions (Soil Health Project)
+
 🧠 Improving DSA & problem-solving
+
 🌐 Mastering Full Stack Development
+
 
 ---
 
